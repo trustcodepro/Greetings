@@ -17,6 +17,6 @@ We are a team of engineers specialized in blockchain technology and blockchain b
 [<img align="left" alt="Techrate | Telegram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 <br />
 
-[twitter]: https://www.twitter.com/truscodex
-[web]: https://www.truscodex.com
+[twitter]: https://www.twitter.com/trustcodex
+[web]: https://trustcodex.blockchain
 [telegram]: https://t.me/trustcodex
