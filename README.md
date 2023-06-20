@@ -1,14 +1,15 @@
 ### 👋 Hello, we are TrustCodeX,
 
-We are a team of engineers specialized in blockchain technology and blockchain business analysis, with extensive experience in the crypto industry. We started as a small group of enthusiasts helping crypto investors and avoiding bad investments in early 2020. We have now expanded our mastery and expertise to provide professional services in security and technical assessment of projects.
+We are a team of software & data engineers specialized in web3 blockchain technology and business analysis, with extensive experience in the crypto industry.
+
+We started as a small group of enthusiasts helping crypto investors and now we have expanded our bussines scope and expertise to provide professional services in security and technical assessment of projects.
 
 ### 🛠Services we are providing:
 
-- Full Smart Contract security audit.
-
-- Smart Contracts development:
-
-- Dashboards development and web3 integrations.
+-Full Smart Contract security audit.
+-Smart Contracts development
+-Apps & Dashboards development
+-Bussines to Web3 integrations.
 
 ### 📫Connect with us:
 
@@ -18,5 +19,5 @@ We are a team of engineers specialized in blockchain technology and blockchain b
 <br />
 
 [twitter]: https://www.twitter.com/trustcodex
-[web]: https://trustcodex.blockchain
+[web]: https://trustcodex.pro
 [telegram]: https://t.me/trustcodex
