@@ -7,8 +7,11 @@ We started as a small group of enthusiasts helping crypto investors and now we h
 ### 🛠Services we are providing:
 
 Full Smart Contract security audit.
+
 Smart Contracts development
+
 Apps & Dashboards development
+
 Bussines to Web3 integrations.
 
 ### 📫Connect with us:
