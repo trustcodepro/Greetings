@@ -6,10 +6,10 @@ What started as a passionate group dedicated to assisting crypto investors has e
 
 ### 🛠 Driven by our commitment to excellence, we offer a range of advanced solutions, including:
 
-Thorough security audits for complex Smart Contracts.
-Development of meticulously crafted Smart Contracts.
-Customized creation of versatile applications and user-friendly dashboards that cater to our clients' specific needs.
-Smooth integration of business systems into the innovative Web3 landscape, promoting synergy and efficiency.
+·Thorough security audits for complex Smart Contracts.
+·Development of meticulously crafted Smart Contracts.
+·Customized creation of versatile applications and user-friendly dashboards that cater to our clients' specific needs.
+·Smooth integration of business systems into the innovative Web3 landscape, promoting synergy and efficiency.
 
 ### 📫 Connect with us:
 
