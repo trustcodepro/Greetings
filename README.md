@@ -1,6 +1,6 @@
 ### 👋 Greetings!
 
-Introducing TrustCodeX, a dynamic consortium of skilled software and data engineers specializing in web3 blockchain technology and business analysis. Our team brings extensive experience in the crypto industry, granting us a deep understanding of its complexities.
+Introducing Trustcode, a dynamic consortium of skilled software and data engineers specializing in web3 blockchain technology and business analysis. Our team brings extensive experience in the crypto industry, granting us a deep understanding of its complexities.
 
 What started as a passionate group dedicated to assisting crypto investors has evolved into a growth-focused organization. We have expanded our operations and sharpened our expertise to provide proficient services in project security, technical assessment and Know Your Customer (KYC).
 
@@ -21,6 +21,6 @@ Our report gives your community a sense of safety and security by providing valu
 [<img align="left" alt="Techrate | Telegram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 <br />
 
-[twitter]: https://www.twitter.com/trustcodex
-[web]: https://trustcodex.pro
-[telegram]: https://t.me/trustcodex
+[twitter]: https://www.twitter.com/trustcode
+[web]: https://trustcode.pro
+[telegram]: https://t.me/trustcode
